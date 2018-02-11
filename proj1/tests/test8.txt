@@ -1,0 +1,48 @@
+Wyoming,07/10/1890,WY,Cheyenne,-107.5,43.0,Matt Mead,253348.0,2--787,America/Denver,http://wyoming.gov,
+Wisconsin,05/29/1848,WI,Madison,-89.5,44.5,Scott Walker,169640.0,2--7750,America/Chicago,http://www.wisconsin.gov,
+West Virginia,06/20/1863,WV,Charleston,-80.5,39.0,Earl Ray Tomblin,62755.0,2--754,America/New York,http://wv.gov,
+Virginia,06/25/1788,VA,Richmond,-79.0,37.5,Terry McAuliffe,110862.0,2--755,America/New York,https://www.virginia.gov/,Elizabeth I of England
+Vermont,03/04/1791,VT,Montpelier,-72.7,44.0,Peter Shumlin,24923.0,2--743,America/New York,http://www.vermont.gov,
+Utah,01/04/1896,UT,Salt Lake City,-111.5,39.5,Gary Herbert,219653.0,2--792,America/Denver,http://www.utah.gov,human
+Texas,12/29/1845,TX,Austin,-100.0,31.0,Greg Abbott,696241.0,2--764,America/Chicago,http://www.texas.gov/,Caddo
+Tennessee,06/01/1796,TN,Nashville,-86.0,36.0,Bill Haslam,109247.0,2--768,America/New York,http://www.tennessee.gov,Tanasi
+South Dakota,11/02/1889,SD,Pierre,-100.0,44.5,Dennis Daugaard,199729.0,2--783,America/Chicago,http://www.sd.gov,Dakota people
+South Carolina,05/23/1788,SC,Columbia,-81.0,34.0,Henry McMaster,82931.0,2--757,America/New York,http://www.sc.gov,Charles I of England
+Rhode Island,05/29/1790,RI,Providence,-71.5,41.7,Lincoln Chafee,3144.245565,2--745,America/New York,http://www.ri.gov,
+Pennsylvania,12/12/1787,PA,Harrisburg,-77.5,41.0,Tom Wolf,119283.0,2--748,America/New York,http://www.pa.gov,William Penn
+Oregon,02/14/1859,OR,Salem,-120.575,43.935833,Kate Brown,255026.0,2--795,America/Los Angeles,http://www.oregon.gov,
+Oklahoma,11/16/1907,OK,Oklahoma City,-98.0,35.5,Mary Fallin,181195.0,2--766,America/Chicago,http://www.ok.gov,
+Ohio,03/01/1803,OH,Columbus,-82.5,40.5,John Kasich,116096.0,2--771,America/New York,http://www.ohio.gov,Ohio River
+North Dakota,11/02/1889,ND,Bismarck,-100.5,47.5,Jack Dalrymple,183108.0,2--784,America/Chicago,http://www.nd.gov,Dakota people
+North Carolina,11/21/1789,NC,Raleigh,-80.0,35.5,Roy Cooper,139390.0,2--756,America/New York,http://www.nc.gov,Charles I of England
+New York,07/26/1788,NY,Albany,-75.0,43.0,Andrew Cuomo,141300.0,2--747,America/New York,http://www.ny.gov/,James VII and II
+New Mexico,01/06/1912,NM,Santa Fe,-106.0,34.0,Susana Martinez,315194.0,2--789,America/Denver,http://www.newmexico.gov,Santa Fe de Nuevo México
+New Jersey,12/18/1787,NJ,Trenton,-74.5,40.0,Chris Christie,22591.4,2--749,America/New York,http://www.nj.gov,Jersey
+New Hampshire,06/21/1788,NH,Concord,-71.5,44.0,Maggie Hassan,24214.0,2--742,America/New York,http://www.nh.gov,Hampshire
+Nevada,10/31/1864,NV,Carson City,-117.0,39.0,Brian Sandoval,286380.0,2--793,America/Los Angeles,http://www.nv.gov/,Sierra Nevada
+Nebraska,03/01/1867,NE,Lincoln,-100.0,41.5,Pete Ricketts,200520.0,2--782,America/Chicago,http://www.nebraska.gov,
+Montana,11/08/1889,MT,Helena,-110.0,47.0,Steve Bullock,381154.0,2--786,America/Denver,http://www.mt.gov,
+Missouri,08/10/1821,MO,Jefferson City,-92.5,38.5,Jay Nixon,180533.0,2--778,America/Chicago,http://www.mo.gov,Missouri River
+Mississippi,12/10/1817,MS,Jackson,-90.0,33.0,Phil Bryant,125443.0,2--762,America/Chicago,http://www.mississippi.gov,Mississippi River
+Minnesota,05/11/1858,MN,Saint Paul,-94.0,46.0,Mark Dayton,225163.0,2--776,America/Chicago,http://mn.gov,Minnesota River
+Michigan,01/26/1837,MI,Lansing,-85.58,44.34,Rick Snyder,250493.0,2--774,America/New York,http://www.michigan.gov,
+Massachusetts,02/06/1788,MA,Boston,-71.8,42.3,Charlie Baker,27336.0,2--744,America/New York,http://www.mass.gov/,
+Maryland,04/28/1788,MD,Annapolis,-76.7,39.0,Larry Hogan,32133.0,2--752,America/New York,https://www.maryland.gov/,Henrietta Maria of France
+Maine,03/15/1820,ME,Augusta,-69.0,45.5,Paul LePage,91646.0,2--741,America/New York,http://www.maine.gov,
+Louisiana,04/30/1812,LA,Baton Rouge,-92.0,31.0,John Bel Edwards,135382.0,2--763,America/Chicago,http://louisiana.gov,Louis XIV of France
+Kentucky,06/01/1792,KY,Frankfort,-85.0,37.5,Matt Bevin,104659.0,2--769,America/New York,http://kentucky.gov,Kentucky River
+Kansas,01/29/1861,KS,Topeka,-98.0,38.5,Sam Brownback,213100.0,2--781,America/Chicago,http://www.kansas.gov,Kansas River
+Iowa,12/28/1846,IA,Des Moines,-93.0,42.0,Terry Branstad,145746.0,2--777,America/Chicago,http://www.iowa.gov,
+Indiana,12/11/1816,IN,Indianapolis,-86.216666666,39.933333333,Eric Holcomb,94321.0,2--772,America/New York,http://www.in.gov,
+Illinois,12/03/1818,IL,Springfield,-89.0,40.0,Bruce Rauner,149998.0,2--773,America/Chicago,http://www.illinois.gov,
+Idaho,07/03/1890,ID,Boise,-114.0,45.0,Butch Otter,216699.0,2--796,America/Denver,http://www.idaho.gov/,
+Georgia,01/02/1788,GA,Atlanta,-83.5,33.0,Nathan Deal,153909.0,2--757,America/New York,http://www.georgia.gov/,George II of Great Britain
+Florida,03/03/1845,FL,Tallahassee,-81.631666666,28.133333333,Rick Scott,170304.0,2--759,America/New York,http://www.myflorida.com,
+Delaware,12/07/1787,DE,Dover,-75.5,39.0,Jack Markell,6452.0,2--751,America/New York,http://delaware.gov,Delaware River
+Connecticut,01/09/1788,CT,Hartford,-72.7,41.6,Dannel Malloy,14357.0,2--746,America/New York,http://www.ct.gov,
+Colorado,08/01/1876,CO,Denver,-105.5,39.0,John Hickenlooper,269837.0,2--788,America/Denver,https://www.colorado.gov/,Colorado River
+California,09/09/1850,CA,Sacramento,-120.0,37.0,Jerry Brown,423970.0,2--794,America/Los Angeles,http://www.ca.gov/,
+Arkansas,06/15/1836,AR,Little Rock,-92.2,34.8,Asa Hutchinson,137733.0,2--767,America/Chicago,http://www.arkansas.gov,
+Arizona,02/14/1912,AZ,Phoenix,-111.656944,34.286667,Doug Ducey,295234.0,2--791,America/Phoenix,http://www.az.gov,
+Alaska,01/03/1959,AK,Juneau,-150.0,64.0,Bill Walker,1717856.0,2--798,America/Anchorage,http://www.alaska.gov,
+Alabama,12/14/1819,AL,Montgomery,-86.7,32.7,Kay Ivey,135765.0,2--761,America/Chicago,http://www.alabama.gov,Alabama people

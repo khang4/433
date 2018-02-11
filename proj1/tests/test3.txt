@@ -1,0 +1,19 @@
+008f60c4d3b904d37bdcaf49d654656cb2fab6bf Making sure airport data is there
+ data/airports.tsv | 1284 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 1284 insertions(+)
+448b476ecd22466f250137d0207c0b261d0dbda2 Intial Ulpoad of Lecture 2
+ Lecture02.ipynb | 1208 ++++++++++++++++++++++---------------------------------
+ 1 file changed, 488 insertions(+), 720 deletions(-)
+18589f64b676c74f0665098ee51063305b095ff7 Completed Lecture 1
+ Lecture01.ipynb | 697 ++++++++++++++++++++++++++++++++++++++++++++++++--------
+ 1 file changed, 608 insertions(+), 89 deletions(-)
+c2f185a441e4d1bf108fc4949d7fa8ce6735a572 PostBuild appears to be working, removing early exit
+ binder/postBuild | 1 -
+ 1 file changed, 1 deletion(-)
+5f29169b33f0a25aafef5ab8246c553d8c0a963f Update set_envs.py to not error on empty lines)
+ binder/perl_env    | 1 ------
+ binder/set_envs.py | 3 ++-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+51b87421372cc59739231cf885edc58adced5af3 Debugging variable setting perl
+ binder/postBuild | 2 ++
+ 1 file changed, 2 insertions(+)
