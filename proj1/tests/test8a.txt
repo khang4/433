@@ -1,0 +1,4 @@
+Wyoming,07/10/1890,WY,Cheyenne,-107.5,43.0,Matt Mead,253348.0,2--787,America/Denver,http://wyoming.gov,
+Wisconsin,05/29/1848,WI,Madison,-89.5,44.5,Scott Walker,169640.0,2--7750,America/Chicago,http://www.wisconsin.gov,
+West Virginia,06/20/1863,WV,Charleston,-80.5,39.0,Earl Ray Tomblin,62755.0,2--754,America/New York,http://wv.gov,
+Maryland,04/28/1788,MD,Annpolis,-76.7,39.0,Larry Hogan, 32133, 2--752,America/New York,https://www.maryland.gov,Henrietta Maria of France

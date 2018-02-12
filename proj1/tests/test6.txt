@@ -1,0 +1,6 @@
+is **this is bolded** really **no**
+hey there *this is italic* ***tripple***
+*this has both italic* and **bold text**
+* A string with no closing asterisk
+# 	** A string with no opening asterisk**
+hey **  ** there

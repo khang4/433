@@ -1,4 +1,4 @@
-#ne if it contains a relative time expression expressed in any combination
+ne if it contains a relative time expression expressed in any combination 
 # of minutes, hours, days, and years.
 #
 # Note: 1 of any unit should not use the plural form of the unit.
@@ -16,5 +16,5 @@
 #
 
 while (<>) {
-  print if //;
+  print if /REGEX/;
 }

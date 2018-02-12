@@ -21,5 +21,5 @@
 # tab character.
 
 while(<>) {
-  print if s/(.*?),..\/..\/(....),.*?,.*?,.*?,.*?,(.*?),(.*?),.*?,.*?,.*?,.*?$/{\n\tname: "\1",\n\tyear_joined: "\2",\n\tarea: "\4",\n\tgovernor: "\3"\n}/;
+  print if s/REGEX/REPLACE/;
 }

@@ -1,0 +1,288 @@
+{
+	name: "Wyoming",
+	year_joined: "1890",
+	area: "253348.0",
+	governor: "Matt Mead"
+}
+{
+	name: "Wisconsin",
+	year_joined: "1848",
+	area: "169640.0",
+	governor: "Scott Walker"
+}
+{
+	name: "West Virginia",
+	year_joined: "1863",
+	area: "62755.0",
+	governor: "Earl Ray Tomblin"
+}
+{
+	name: "Virginia",
+	year_joined: "1788",
+	area: "110862.0",
+	governor: "Terry McAuliffe"
+}
+{
+	name: "Vermont",
+	year_joined: "1791",
+	area: "24923.0",
+	governor: "Peter Shumlin"
+}
+{
+	name: "Utah",
+	year_joined: "1896",
+	area: "219653.0",
+	governor: "Gary Herbert"
+}
+{
+	name: "Texas",
+	year_joined: "1845",
+	area: "696241.0",
+	governor: "Greg Abbott"
+}
+{
+	name: "Tennessee",
+	year_joined: "1796",
+	area: "109247.0",
+	governor: "Bill Haslam"
+}
+{
+	name: "South Dakota",
+	year_joined: "1889",
+	area: "199729.0",
+	governor: "Dennis Daugaard"
+}
+{
+	name: "South Carolina",
+	year_joined: "1788",
+	area: "82931.0",
+	governor: "Henry McMaster"
+}
+{
+	name: "Rhode Island",
+	year_joined: "1790",
+	area: "3144.245565",
+	governor: "Lincoln Chafee"
+}
+{
+	name: "Pennsylvania",
+	year_joined: "1787",
+	area: "119283.0",
+	governor: "Tom Wolf"
+}
+{
+	name: "Oregon",
+	year_joined: "1859",
+	area: "255026.0",
+	governor: "Kate Brown"
+}
+{
+	name: "Oklahoma",
+	year_joined: "1907",
+	area: "181195.0",
+	governor: "Mary Fallin"
+}
+{
+	name: "Ohio",
+	year_joined: "1803",
+	area: "116096.0",
+	governor: "John Kasich"
+}
+{
+	name: "North Dakota",
+	year_joined: "1889",
+	area: "183108.0",
+	governor: "Jack Dalrymple"
+}
+{
+	name: "North Carolina",
+	year_joined: "1789",
+	area: "139390.0",
+	governor: "Roy Cooper"
+}
+{
+	name: "New York",
+	year_joined: "1788",
+	area: "141300.0",
+	governor: "Andrew Cuomo"
+}
+{
+	name: "New Mexico",
+	year_joined: "1912",
+	area: "315194.0",
+	governor: "Susana Martinez"
+}
+{
+	name: "New Jersey",
+	year_joined: "1787",
+	area: "22591.4",
+	governor: "Chris Christie"
+}
+{
+	name: "New Hampshire",
+	year_joined: "1788",
+	area: "24214.0",
+	governor: "Maggie Hassan"
+}
+{
+	name: "Nevada",
+	year_joined: "1864",
+	area: "286380.0",
+	governor: "Brian Sandoval"
+}
+{
+	name: "Nebraska",
+	year_joined: "1867",
+	area: "200520.0",
+	governor: "Pete Ricketts"
+}
+{
+	name: "Montana",
+	year_joined: "1889",
+	area: "381154.0",
+	governor: "Steve Bullock"
+}
+{
+	name: "Missouri",
+	year_joined: "1821",
+	area: "180533.0",
+	governor: "Jay Nixon"
+}
+{
+	name: "Mississippi",
+	year_joined: "1817",
+	area: "125443.0",
+	governor: "Phil Bryant"
+}
+{
+	name: "Minnesota",
+	year_joined: "1858",
+	area: "225163.0",
+	governor: "Mark Dayton"
+}
+{
+	name: "Michigan",
+	year_joined: "1837",
+	area: "250493.0",
+	governor: "Rick Snyder"
+}
+{
+	name: "Massachusetts",
+	year_joined: "1788",
+	area: "27336.0",
+	governor: "Charlie Baker"
+}
+{
+	name: "Maryland",
+	year_joined: "1788",
+	area: "32133.0",
+	governor: "Larry Hogan"
+}
+{
+	name: "Maine",
+	year_joined: "1820",
+	area: "91646.0",
+	governor: "Paul LePage"
+}
+{
+	name: "Louisiana",
+	year_joined: "1812",
+	area: "135382.0",
+	governor: "John Bel Edwards"
+}
+{
+	name: "Kentucky",
+	year_joined: "1792",
+	area: "104659.0",
+	governor: "Matt Bevin"
+}
+{
+	name: "Kansas",
+	year_joined: "1861",
+	area: "213100.0",
+	governor: "Sam Brownback"
+}
+{
+	name: "Iowa",
+	year_joined: "1846",
+	area: "145746.0",
+	governor: "Terry Branstad"
+}
+{
+	name: "Indiana",
+	year_joined: "1816",
+	area: "94321.0",
+	governor: "Eric Holcomb"
+}
+{
+	name: "Illinois",
+	year_joined: "1818",
+	area: "149998.0",
+	governor: "Bruce Rauner"
+}
+{
+	name: "Idaho",
+	year_joined: "1890",
+	area: "216699.0",
+	governor: "Butch Otter"
+}
+{
+	name: "Georgia",
+	year_joined: "1788",
+	area: "153909.0",
+	governor: "Nathan Deal"
+}
+{
+	name: "Florida",
+	year_joined: "1845",
+	area: "170304.0",
+	governor: "Rick Scott"
+}
+{
+	name: "Delaware",
+	year_joined: "1787",
+	area: "6452.0",
+	governor: "Jack Markell"
+}
+{
+	name: "Connecticut",
+	year_joined: "1788",
+	area: "14357.0",
+	governor: "Dannel Malloy"
+}
+{
+	name: "Colorado",
+	year_joined: "1876",
+	area: "269837.0",
+	governor: "John Hickenlooper"
+}
+{
+	name: "California",
+	year_joined: "1850",
+	area: "423970.0",
+	governor: "Jerry Brown"
+}
+{
+	name: "Arkansas",
+	year_joined: "1836",
+	area: "137733.0",
+	governor: "Asa Hutchinson"
+}
+{
+	name: "Arizona",
+	year_joined: "1912",
+	area: "295234.0",
+	governor: "Doug Ducey"
+}
+{
+	name: "Alaska",
+	year_joined: "1959",
+	area: "1717856.0",
+	governor: "Bill Walker"
+}
+{
+	name: "Alabama",
+	year_joined: "1819",
+	area: "135765.0",
+	governor: "Kay Ivey"
+}
